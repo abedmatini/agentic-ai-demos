@@ -1,0 +1,182 @@
+# ===================================
+# Python
+# ===================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+virtualenv/
+
+# Distribution / Packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# ===================================
+# Environment & Secrets
+# ===================================
+.env
+.env.local
+.env.*.local
+*.key
+*.secret
+secrets/
+credentials/
+
+# Azure credentials (extra safety)
+azure.json
+service-principal.json
+
+# ===================================
+# Streamlit
+# ===================================
+.streamlit/
+.streamlit/secrets.toml
+
+# ===================================
+# IDEs and Editors
+# ===================================
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+.netrwhist
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+
+# ===================================
+# Operating Systems
+# ===================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# ===================================
+# Logs and Databases
+# ===================================
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+
+# ===================================
+# Jupyter Notebooks
+# ===================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ===================================
+# Project Specific
+# ===================================
+# Old/backup files
+README_OLD.md
+*.backup
+*.bak
+*.old
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# Downloaded files (if any)
+downloads/
+
+# Test outputs
+test_output/
+output/
+
+# ===================================
+# Documentation Build
+# ===================================
+docs/_build/
+site/
+
+# ===================================
+# Package managers
+# ===================================
+# npm (if you add any JS)
+node_modules/
+package-lock.json
+
+# ===================================
+# Misc
+# ===================================
+.sass-cache/
+*.pid
+*.seed
+*.pid.lock
