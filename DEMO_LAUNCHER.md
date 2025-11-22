@@ -77,6 +77,25 @@ streamlit run demo4_planning.py
 
 ---
 
+### Demo 5: Trend Research System 📊
+**File:** `demo5_trend_research.py`  
+**Time:** 6-8 minutes  
+**Shows:** Multi-source intelligence with parallel + sequential execution
+
+```bash
+streamlit run demo5_trend_research.py
+```
+
+**Best Example:** Select "Gen Z Nigeria" or "Detty December" question
+- Shows 3 agents collecting data in parallel
+- 5 platforms analyzed simultaneously
+- Sequential analysis and synthesis
+- Comprehensive marketing report
+
+**Key Message:** "Sophisticated multi-agent systems for real-world research"
+
+---
+
 ## Quick Launch Commands
 
 ### Demo 1: Tool Use
@@ -97,6 +116,11 @@ streamlit run demo3_multi_agent.py
 ### Demo 4: Planning
 ```bash
 streamlit run demo4_planning.py
+```
+
+### Demo 5: Trend Research
+```bash
+streamlit run demo5_trend_research.py
 ```
 
 ### Original Multi-Agent Demo

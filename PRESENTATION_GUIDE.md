@@ -6,7 +6,7 @@
 
 ## 📊 Complete Demo Arsenal
 
-You now have **4 polished demos** showcasing fundamental agentic patterns:
+You now have **5 polished demos** showcasing fundamental agentic patterns:
 
 ### ✅ Demo 1: Tool Use Pattern 🛠️
 **Time:** 3-5 minutes  
@@ -31,6 +31,12 @@ You now have **4 polished demos** showcasing fundamental agentic patterns:
 **Pattern:** Task decomposition and systematic execution  
 **Scenario:** Social media campaign planning with reflection  
 **Key Message:** "Agents handle complexity through systematic planning"
+
+### ✅ Demo 5: Trend Research System 📊
+**Time:** 6-8 minutes  
+**Pattern:** Hybrid (Parallel + Sequential multi-agent with tools)  
+**Scenario:** Multi-source market research for marketing agencies  
+**Key Message:** "Sophisticated multi-agent systems for real-world research"
 
 ---
 
